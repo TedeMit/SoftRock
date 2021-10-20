@@ -63,12 +63,7 @@ const replies = [
   ["Jaja! "," Bueno!"]
 ];
 const alternative = [
-  "Mismo",
-  "Seguir...",
-  "Bro...",
-  "Intentalo otra vez",
-  "Estoy escuchando...",
-  "No entiendo :/"
+  "Ahora mismo no estamos disponibles. Disculpen las molestias"
 ]
 const robot = ["¿Cómo estás, compañero humano? "," No soy un bot"];
 msgerForm.addEventListener("submit", event => {
